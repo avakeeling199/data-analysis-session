@@ -1,2 +1,2 @@
 # data-analysis-session
-File used during my R data analysis sessions
+Files for those attending my R data analysis workshops at Plymouth University
